@@ -1,0 +1,16 @@
+.aboutBody{
+    background-color: #0E0F10;
+    color: #ffffff;
+}
+
+.firstCard{
+    background-color:black;
+    padding: 4%;
+    border-radius: 15px;
+}
+.myImg{
+    padding: 3%;
+    background-color:#1F1F20;
+    border-radius: 5px;
+    width: 100%;
+}
